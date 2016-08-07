@@ -1,4 +1,5 @@
-# t
+# Quiz_Week_4_Getting_and_Cleaning_Data
+
 run_analysis.R does the following:
 
 1. Reads in all the relavant data from the Samsung datasets
